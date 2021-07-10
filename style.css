@@ -24,8 +24,9 @@ span {
 
 a {
   margin: none;
-  border: 1px dotted turquoise;
+  border: 1px solid turquoise;
   text-align: center;
+
 }
 
 li {
