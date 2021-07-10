@@ -1,1 +1,1 @@
-Hello, I am Atticus Yong. I like to play chess at multiple websites. I am a coder. I will post this repository on GitHub so others will have a reference to follow if they ever get stuck on a website project like mine. I hope you will enjoy my work. Bye!!! :)
+Hello, I am Atticus Yong. I like to play chess at multiple websites. I am a coder. I will post this repository on GitHub so others will have a reference to follow if they ever get stuck on a website project like mine. I hope you will enjoy my work. If I have any mistakes please tell me. Bye!!! :)
