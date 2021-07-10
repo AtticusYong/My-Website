@@ -1,0 +1,33 @@
+body {
+  color: aquamarine;
+  background-color: darkgoldenrod;
+}
+
+h1 {
+  background-color: black;
+  margin: none;
+  border: 5px solid aqua;
+  text-align: center;
+}
+
+h2 {
+  margin: none;
+  border: 2.5px solid darkcyan;
+  text-align: center;
+}
+
+span {
+  margin: none;
+  border: 1px dotted turquoise;
+  text-align: center;
+}
+
+a {
+  margin: none;
+  border: 1px dotted turquoise;
+  text-align: center;
+}
+
+li {
+  text-align: center;
+}
